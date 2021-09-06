@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Meme Generator Web Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains the files related to the meme generator web application created using React as a part of the React course
 
-## Available Scripts
+To run the web application
 
 In the project directory, you can run:
 
